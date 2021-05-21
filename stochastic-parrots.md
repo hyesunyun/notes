@@ -25,8 +25,6 @@ Lists already well-documented risks and harms as well as some that are new.
 
 ## Costs of Lanaguage Models 💰
 
-Need of efficiency as an evaluation metric, online tools to analyze energy usage, and pressure on companies to devise sustainable training techniques.
-
 ### Environmental Costs 🌳
 
 While the average human is responsible for an estimated 5t CO<sub>2</sub>
@@ -53,6 +51,9 @@ LMs have resulted in performance gains, they estimate that an
 increase in 0.1 BLEU score using neural architecture search for
 English to German translation results in an increase of $150,000
 compute cost in addition to the carbon emissions.
+
+
+Need of efficiency as an evaluation metric, online tools to analyze energy usage, and pressure on companies to devise sustainable training techniques.
 
 
 ## Large Training Data
