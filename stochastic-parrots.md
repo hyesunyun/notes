@@ -3,7 +3,7 @@
 **Authors**: Emily M. Bender, Timnit Gebru, Angie McMillan-Major, and Shmargaret Shmitchell  
 **Conference**: ACM FAccT Conference 2021 (Conference on Fairness, Accountability, and Transparency in Socio-Technical Systems)  
 March 3-10, 2021  
-**Link**: [PDF](https://dl.acm.org/doi/10.1145/3442188.3445922), [Slides](https://docs.google.com/presentation/d/16xC4OsvgVwuOnSn88eOXzzymLEHEFfZod21lLnsXHK0/edit?usp=sharing)  
+**Links**: [PDF](https://dl.acm.org/doi/10.1145/3442188.3445922), [Slides](https://docs.google.com/presentation/d/16xC4OsvgVwuOnSn88eOXzzymLEHEFfZod21lLnsXHK0/edit?usp=sharing)  
 
 
 ## Introduction and Background
