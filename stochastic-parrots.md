@@ -23,11 +23,11 @@ March 3-10, 2021
 
 Lists already well-documented risks and harms as well as some that are new.
 
-## Costs of Lanaguage Models
+## Costs of Lanaguage Models 💰
 
 Need of efficiency as an evaluation metric, online tools to analyze energy usage, and pressure on companies to devise sustainable training techniques.
 
-### Environmental Costs
+### Environmental Costs 🌳
 
 While the average human is responsible for an estimated 5t CO<sub>2</sub>
 emission per year, a Transformer (big) model with neural architecture search and estimated that the training procedure emitted 284t of CO<sub>2</sub> emission.
@@ -44,7 +44,7 @@ because they do not accrue to the same people.
 the negative effects of climate change are reaching and impacting
 the world’s most marginalized communities first.
 
-### Financial Costs
+### Financial Costs 💸
 
 **Cost of models vs their accuracy gains**
 
